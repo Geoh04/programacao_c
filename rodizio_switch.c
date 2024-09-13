@@ -47,6 +47,10 @@ scanf("%d",&final_placa);
         case 0:
         printf("\nRodízio na Sexta-feira\n\n");
     break;
+
+    default:
+        printf("\nFinal de placa inexistente\n\n");
+        break;
     
     }
 }
