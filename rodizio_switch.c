@@ -49,7 +49,7 @@ scanf("%d",&final_placa);
     break;
 
     default:
-        printf("\nFinal de placa inexistente\n\n");
+        printf("\nFinal de placa inexistente\n\n ");
         break;
     
     }
